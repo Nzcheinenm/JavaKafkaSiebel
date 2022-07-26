@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lz4-java-1.7.1">
+    <CLASSES>
+      <root url="jar://C:/Work - AT/Москва/_ВТБ/JBS/libs/jar_files/lz4-java-1.7.1.jar!/" />
+      <root url="jar://C:/Work - AT/Москва/_ВТБ/JBS/libs/jar_files/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://C:/Work - AT/Москва/_ВТБ/JBS/libs/jar_files/snappy-java-1.1.8.1.jar!/" />
+      <root url="jar://C:/Work - AT/Москва/_ВТБ/JBS/libs/jar_files/zstd-jni-1.4.9-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

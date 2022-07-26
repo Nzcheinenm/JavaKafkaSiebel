@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="siebel-kafka-adapter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/siebel_kafka_adapter_jar</output-path>
+    <root id="archive" name="siebel-kafka-adapter.jar">
+      <element id="module-output" name="siebel-kafka-adapter" />
+      <element id="extracted-dir" path="C:/Work - AT/Москва/_ВТБ/JBS/libs/Siebel.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Work - AT/Москва/_ВТБ/JBS/libs/jar_files/kafka-clients-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Work - AT/Москва/_ВТБ/JBS/libs/jar_files/lz4-java-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Work - AT/Москва/_ВТБ/JBS/libs/jar_files/slf4j-api-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Work - AT/Москва/_ВТБ/JBS/libs/jar_files/snappy-java-1.1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Work - AT/Москва/_ВТБ/JBS/libs/jar_files/zstd-jni-1.4.9-1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
